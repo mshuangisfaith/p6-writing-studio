@@ -146,3 +146,25 @@ STUDIO.conclusions = [
   {name:'A flashback ending',focus:'Past and present together',summary:'An object or sound recalls an earlier moment, then the story returns clearly to the present and shows its lasting effect.',model:'Years later, Alex found a photograph of Whiskers tucked inside a book. She remembered the afternoon when she had handed the carrier to Mia, her fingers slow to let go. A gentle mew brought her back to the present. At the animal shelter, a kitten was waiting beside her. Alex put the photograph away and reached for a clean bowl of water.',why:'The photograph opens the memory; the kitten’s mew returns Alex to the present. Her action shows how the experience shaped her.',watch:'Keep both time shifts clear. Do not end inside a memory if the current story still needs an ending.'},
   {name:'A quote or proverb',focus:'A thought that fits the story',summary:'A short, relevant quotation or familiar saying can echo the theme after the character has already shown it through action.',model:'Alex watched Whiskers explore Mia’s living room. “Actions speak louder than words,” Father said, resting a hand on her shoulder. Alex glanced at the blanket, food and favourite toy she had packed. Letting Whiskers go had been painful, but she had helped her find a caring home.',why:'The saying is tagged as Father’s speech and follows Alex’s caring action. It does not replace the story’s resolution.',watch:'Avoid unrelated proverbs, uncertain quotations or an idiom that contradicts the story. One apt line is enough.'}
 ];
+
+STUDIO.endingThemes = [
+  {name:'Friendship & forgiveness',items:[
+    {kind:'Idiom',phrase:'bury the hatchet',meaning:'make peace after a disagreement',model:'Tim and I finally buried the hatchet. The next morning, I saved a place for him beside me at lunch.'},
+    {kind:'Proverb',phrase:'A friend in need is a friend indeed.',meaning:'a true friend helps when things are difficult',model:'Sally stayed after everyone else had gone. I understood then why people say that a friend in need is a friend indeed.'},
+    {kind:'Verified quotation',phrase:'Alone we can do so little; together we can do so much.',meaning:'support makes difficult work possible',model:'Helen Keller’s words came to mind: “Alone we can do so little; together we can do so much.” I thanked Sally for staying when I needed her.',source:'Helen Keller International',url:'https://helenkellerintl.org/wp-content/uploads/2024/05/HKI_Annual_Report_2018_web.pdf'}
+  ]},
+  {name:'Responsibility & time',items:[
+    {kind:'Idiom',phrase:'bite off more than you can chew',meaning:'take on more than you can manage',model:'I had bitten off more than I could chew. I declined another commitment and planned the rest of my week carefully.'},
+    {kind:'Proverb',phrase:'Actions speak louder than words.',meaning:'what someone does matters more than a promise',model:'“Actions speak louder than words,” Father reminded me. The next morning, I arrived early and kept my promise.'},
+    {kind:'Useful phrase',phrase:'empty promises',meaning:'promises made without real intention or action',model:'I had made enough empty promises. This time, I returned the borrowed book before the library closed.'}
+  ]},
+  {name:'Courage & hope',items:[
+    {kind:'Idiom',phrase:'cross that bridge when you come to it',meaning:'deal with a future difficulty when it arrives',model:'Next month’s competition could wait. I would cross that bridge when I came to it. Today, I stepped onto the stage.'},
+    {kind:'Proverb',phrase:'Where there is a will, there is a way.',meaning:'determination can help someone find a path',model:'The proverb “Where there is a will, there is a way” finally made sense to me. I had asked for help, practised and tried again.'},
+    {kind:'Verified quotation',phrase:'Life is either a daring adventure or nothing.',meaning:'take a brave step when the moment calls for it',model:'Helen Keller’s words echoed in my mind: “Life is either a daring adventure or nothing.” I took a breath and walked onto the stage.',source:'American Foundation for the Blind',url:'https://www.afb.org/fun-facts-and-quotes'}
+  ]},
+  {name:'First impressions',items:[
+    {kind:'Idiom',phrase:'judge a book by its cover',meaning:'judge someone by appearance or first impression alone',model:'I had judged Ethan by his quietness. Now I knew I could not judge a book by its cover. I sat beside him and listened.'},
+    {kind:'Use with care',phrase:'A leopard cannot change its spots.',meaning:'someone’s character cannot change',model:'Tim had apologised and then kept his promise for weeks. I could see that he was changing, so this proverb would contradict my ending.'}
+  ]}
+];

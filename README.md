@@ -10,7 +10,7 @@ An interactive composition revision site prepared for Ms Huang's class. British 
 - Eight groups of saying verbs, organised by emotion or manner.
 - Five complications: a physical fight, a quarrel, a dilemma, a moral dilemma and a fire.
 - Five viewpoints, including an animal, adult, elderly person and younger child.
-- Three flashback frames, eleven starter phrases and six conclusion types.
+- Three flashback frames, eleven starter phrases and six conclusion types plus a theme-grouped idiom, proverb and verified-quotation guide.
 - Classroom conventions and a seventeen-item final checklist.
 
 ## Open or host
