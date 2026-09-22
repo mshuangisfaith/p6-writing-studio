@@ -15,7 +15,7 @@ An interactive composition revision site prepared for Ms Huang's class. British 
 
 ## Open or host
 
-Open `index.html` in a modern browser, keeping the five site files together. No installation, external libraries, account or internet connection is needed after downloading the files. For GitHub Pages, place the folder within an existing publishing source or publish the files from the root of a new repository. Open the folder URL ending in `/`.
+Open `index.html` in a modern browser, keeping the six site files together. No installation, external libraries, account or internet connection is needed after downloading the files. For GitHub Pages, place the folder within an existing publishing source or publish the files from the root of a new repository. Open the folder URL ending in `/`.
 
 Direct-speech repair text, selected answers and checklist ticks remain in memory in the current tab. Reloading clears them. Nothing is submitted to a server. The sentence-repair checker accepts the supplied corrections and normalises straight/curly quotation marks; other grammatical rewrites may also be valid.
 
@@ -33,3 +33,4 @@ Adapted from the available 2026 teaching conversations: *Proofread And Format St
 - `styles.css`: responsive layout and print styles
 - `content.js`: lesson examples and question banks
 - `app.js`: lessons, feedback and interactions
+- `writing-doodles.png`: illustrated writing tools
