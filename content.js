@@ -168,3 +168,10 @@ STUDIO.endingThemes = [
     {kind:'Use with care',phrase:'A leopard cannot change its spots.',meaning:'someone’s character cannot change',model:'Tim had apologised and then kept his promise for weeks. I could see that he was changing, so this proverb would contradict my ending.'}
   ]}
 ];
+
+STUDIO.transitionGroups = [
+  {name:'Time and sequence',words:['After…','Afterwards','As soon as…','At first','At last','Before…','Before long','During…','Finally','In the meantime','Just then','Later','Meanwhile','Next','Now','Soon','Suddenly','Then','Until…','When…','While…','Yesterday','Tomorrow','Next week','Simultaneously'],model:'Just then, I felt a tap on my shoulder.'},
+  {name:'Location',words:['Above','Across','Around','Behind','Beside','Between','In front of','Inside','Near','Outside','Over','Under'],model:'Behind me, someone stifled a laugh.'},
+  {name:'Cause and effect',words:['As a result','Consequently','Therefore','Thus'],model:'As a result, my glasses slipped from my nose and shattered.'},
+  {name:'Comparison, contrast and addition',words:['Furthermore','However','In spite of…','Likewise','Nevertheless','Similarly'],model:'Nevertheless, I lowered my fist and stepped back.'}
+];

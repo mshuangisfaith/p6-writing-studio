@@ -5,7 +5,7 @@ An interactive composition revision site prepared for Ms Huang's class. British 
 ## Included
 
 - Six theme families with adaptable ideas.
-- The five senses; show, don't tell; exploding a moment; turning points; characterisation.
+- The five senses; show, don't tell; TAD and FAT for exploding a moment; Thoughtshots; turning points; characterisation.
 - Eight direct-speech patterns, a sentence builder with 120 combinations, twelve multiple-choice questions, six sentence repairs and speaker-paragraph practice.
 - Eight groups of saying verbs, organised by emotion or manner.
 - Five complications: a physical fight, a quarrel, a dilemma, a moral dilemma and a fire.
